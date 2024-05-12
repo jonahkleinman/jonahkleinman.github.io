@@ -36,10 +36,6 @@ export default {
           description: "Experienced with React, creating efficient and reusable UI components, managing state with hooks, and handling complex user interactions."
         },
         {
-          name: "Laravel",
-          description: "Proficient in Laravel, using this robust PHP framework for server-side programming, known for elegant syntax and MVC support."
-        },
-        {
           name: "Vue",
           description: "Skilled in Vue.js, focusing on building interactive and performant single-page applications with a reactive and composable UI."
         }
